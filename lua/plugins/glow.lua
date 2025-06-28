@@ -1,4 +1,5 @@
 return {
+  -- Note Should have Glow installed on PC
   {
     "ellisonleao/glow.nvim",
     cmd = "Glow",
